@@ -101,7 +101,7 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Video:
 
-![IMAGE ALT TEXT HERE](https://youtu.be/p4HoSFZrcbQ?si=J8HucPYXssL-1JnK)
+https://youtu.be/p4HoSFZrcbQ?si=J8HucPYXssL-1JnK
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
